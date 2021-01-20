@@ -1,0 +1,38 @@
+export const courses = [
+  {
+    title: "Prototype in Invision Studio",
+    subtitle: "10 sections",
+    image: require("../../../assets/background4.jpg"),
+    logo: require("../../../assets/logo-figma.png"),
+    author: "John Doe",
+    avatar: require("../../../assets/avatar.jpg"),
+    caption: "Design and interactive prototype",
+  },
+  {
+    title: "Prototype in Invision Studio",
+    subtitle: "10 sections",
+    image: require("../../../assets/background4.jpg"),
+    logo: require("../../../assets/logo-figma.png"),
+    author: "John Doe",
+    avatar: require("../../../assets/avatar.jpg"),
+    caption: "Design and interactive prototype",
+  },
+  {
+    title: "Prototype in Invision Studio",
+    subtitle: "10 sections",
+    image: require("../../../assets/background4.jpg"),
+    logo: require("../../../assets/logo-figma.png"),
+    author: "John Doe",
+    avatar: require("../../../assets/avatar.jpg"),
+    caption: "Design and interactive prototype",
+  },
+  {
+    title: "Prototype in Invision Studio",
+    subtitle: "10 sections",
+    image: require("../../../assets/background4.jpg"),
+    logo: require("../../../assets/logo-figma.png"),
+    author: "John Doe",
+    avatar: require("../../../assets/avatar.jpg"),
+    caption: "Design and interactive prototype",
+  },
+];
